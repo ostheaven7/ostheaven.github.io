@@ -27,7 +27,7 @@
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
-    "no_of_slides" : "11",
+    "no_of_slides" : "13",
      "slide_title_0" : "1- What is FaceTime ?",
     "slide_content_0" : "FaceTime is Apple's video and audio chatting platform that lets iPhone users communicate with one another through the standard FaceTime video protocol or using the FaceTime audio feature. As a key iPhone, iPad, and Mac feature, FaceTime is widely known, but if you're new to FaceTime, this guide will walk you through everything you need to know. Even established FaceTime users may learn a trick or two.",
     "slide_title_1" : "2- Setting up FaceTime ?",
