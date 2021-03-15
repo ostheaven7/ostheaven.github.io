@@ -11,7 +11,7 @@
     "ad_unit_banner": "",
     "ad_unit_banner_rect": "",
     "ad_unit_banner_rect_intro_last": "",
-    "fb_banner_enable" : "true",
+    "fb_banner_enable" : "false",
     "fb_rect_enable" : "false",
     "fb_rect__intro_last_enable" : "false",
     "fb_inter_enable" : "true",
