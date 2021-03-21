@@ -22,7 +22,7 @@
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "245072533857254_254505259580648",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "245072533857254_245161903848317",
     "interstitial_step":"1",
-    "update_active" : "true",
+    "update_active" : "false",
     "updateTITLE" : "New Update",
     "updateMSG" : "Please Install it",
     "updatePACKAGENAME" : "com.procut.capcut.videoediting.videoeditor21",
