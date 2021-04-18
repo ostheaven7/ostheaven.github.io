@@ -22,7 +22,7 @@
     "FACEBOOK_ADS_RECT_INTRO_LAST_PLACEMENT_ID": "",
     "FACEBOOK_ADS_BANNER_PLACEMENT_ID": "",
     "interstitial_step":"2",
-    "update_active" : "false",
+    "update_active" : "true",
     "updateTITLE" : "New Version",
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "com.dts.freefireth",
