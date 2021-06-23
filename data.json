@@ -1,7 +1,7 @@
 {
     "GPOnlyTraffic" : "false",
     "admob_only" : "false",
-    "tapdaq_only" : "true",
+    "tapdaq" : "true",
     "admob_banner_enable" : "true",
     "admob_banner_intro_last_rect_enable" : "true",
     "admob_banner_rect_enable" : "true",
