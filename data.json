@@ -14,6 +14,7 @@
     "tapdaq_client_key": "3d8655a9-7fb6-4998-ade3-907c3ea9fafe",
     "tapdaq_placement_tag_banner": "default",
     "tapdaq_placement_tag_inter": "default",
+    "tapdaq_ads_auto_reload" : "false",
     "interstitial_step":"1",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
