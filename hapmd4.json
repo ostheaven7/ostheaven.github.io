@@ -19,7 +19,7 @@
     "max_inter_id": "",
     "max_banner_id2": "",
     "max_inter_id2": "",
-    "interstitial_step":"2",
+    "interstitial_step":"5",
     "update_active" : "false",
     "updateTITLE" : "New Version",
     "updateMSG" : "Please Install NEW VERSION",
