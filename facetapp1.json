@@ -26,7 +26,7 @@
     "tapdaq_placement_tag_banner": "default",
     "tapdaq_placement_tag_inter": "default",
     "tapdaq_ads_auto_reload" : "false",
-    "interstitial_step":"1",
+    "interstitial_step":"5",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
     "updateMSG" : "Please Install NEW VERSION",
