@@ -34,6 +34,7 @@
     "updateDIRECTLINK" : "false",
     "force_update": "false",
     "USE_SLIDE" :"false",
+    "Desc_intro_enable" : "false",
     "Desc_intro" : "NOTE : For The App to Work Properly, You Must Go Through Every Slide Before Using Our App",
     "no_of_slides" : "16",
     "slide_title_0" : "What is PK Xd Game ?",
