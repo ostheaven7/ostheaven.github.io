@@ -20,7 +20,7 @@
     "max_banner_id2": "",
     "max_inter_id2": "",
     "tapdaq_banner_enable" : "false",
-    "tapdaq_inter_enable" : "false",
+    "tapdaq_inter_enable" : "true",
     "tapdaq_app_id": "61ee9e7b08fe6c2d735d7812",
     "tapdaq_client_key": "3d8655a9-7fb6-4998-ade3-907c3ea9fafe",
     "tapdaq_placement_tag_banner": "default",
