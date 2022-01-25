@@ -1,6 +1,6 @@
 {
     "GPOnlyTraffic" : "true",
-    "admob_only" : "true",
+    "admob_only" : "false",
     "max_only" : "false",
     "tapdaq_only" : "true",
     "admob_banner_enable" : "false",
