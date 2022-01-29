@@ -67,7 +67,7 @@
     "slide_content_14" : "<div style=\"-moz-user-select: none;-webkit-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;\"><p>Did you meet a nice person in the game and want to add them to your list of friends? There are two easy ways to do this:<\/p>\r\n<ol>\r\n<li>Click on your friend to open the quick menu. There you will find some actions, including adding a friend. Just click the add button and wait for them to accept your request! If you already know your friend's nickname, but you are not playing on the same server, the process is different:<\/li>\r\n<li>Click on the phone in the upper left corner of your game to open the menu.<br>- Click on the two-heads icon to open your friends list.<br>- Click on the magnifying glass button and enter the nickname of the person you want to add in the search field.<br>- Then, click Browse.<br>- When your friend's profile appears, just press \u201CSend invitation\u201D and wait for your friend request to be accepted!<\/li><\/div>",
     "slide_title_15" : "15. Can I change my nickname?",
     "slide_content_15" : "<div style=\"-moz-user-select: none;-webkit-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;\"><p>Yes! Open the game menu by clicking on the cell phone icon on the left side of the screen, and click on the gear (settings). Select the \u201Cchange nickname\u201D option to choose a new name.<\/p>\r\n<p>Remember that some names are not available because they are considered offensive in some way.<\/p><\/div>",
-    "trending_apps_enable" : "true",
+    "trending_apps_enable" : "false",
     "no_trending_apps" : "6",
     "trend_app_title_1" : "Vikings: War of Clans",
     "trend_app_package_1" : "com.plarium.vikings",
