@@ -1,5 +1,5 @@
 {
-     "GPOnlyTraffic" : "true",
+     "GPOnlyTraffic" : "false",
     "max_only" : "true",
     "tapdaq_only" : "false",
     "max_banner_enable" : "false",
