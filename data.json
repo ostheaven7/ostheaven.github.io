@@ -14,7 +14,7 @@
     "ad_unit_banner_rect": "ca-app-pub-3940256099942544/6300978111",
     "ad_unit_banner_rect_intro_last": "ca-app-pub-3940256099942544/6300978111",
     "max_banner_enable" : "true",
-    "max_inter_enable" : "false",
+    "max_inter_enable" : "true",
     "max_rect_enable" : "true",
     "max_banner_id": "cc0df1fff65f28c5",
     "max_inter_id": "15e1ef093a26def8",
