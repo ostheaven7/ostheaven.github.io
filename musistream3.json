@@ -5,7 +5,7 @@
     "max_banner_enable" : "false",
     "max_inter_enable" : "true",
     "max_native_enable" : "false",
-    "max_rect_enable" : "true",
+    "max_rect_enable" : "false",
     "max_banner_id": "2148b55768a540fb",
     "max_banner_id2": "2148b55768a540fb",
     "max_inter_id": "dcbcdd4844f18118",
