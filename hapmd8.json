@@ -4,7 +4,7 @@
     "tapdaq_only" : "false",
     "max_banner_enable" : "false",
     "max_inter_enable" : "true",
-    "max_native_enable" : "true",
+    "max_native_enable" : "false",
     "max_rect_enable" : "false",
     "max_banner_id": "6ea6d54ea4cb6a49",
     "max_banner_id2": "6ea6d54ea4cb6a49",
