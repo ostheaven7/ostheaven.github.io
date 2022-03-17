@@ -30,7 +30,7 @@
     "tapdaq_ads_auto_reload" : "false",
     "interstitial_step":"1",
     "update_active" : "false",
-    "updateTITLE" : "Fall Guys - New Version",
+    "updateTITLE" : "",
     "updateMSG" : "Please Install NEW VERSION",
     "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
