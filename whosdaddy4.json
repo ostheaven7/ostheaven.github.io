@@ -3,7 +3,7 @@
     "max_only" : "false",
     "tapdaq_only" : "false",
     "max_banner_enable" : "false",
-    "max_inter_enable" : "true",
+    "max_inter_enable" : "false",
     "max_banner_id": "",
     "max_inter_id": "1701b5a3b692c855",
     "max_banner_id2": "",
