@@ -1,0 +1,25 @@
+{    
+    "GPOnlyTraffic" : "false",
+    "admob_only" : "false",
+    "max_only" : "false",
+    "tapdaq_only" : "false",
+    "admob_banner_enable" : "true"
+    "admob_native_enable" : "true",
+    "admob_inter_enable" : "true",
+    "ad_unit_inter": "ca-app-pub-3940256099942544/1033173712",
+    "ad_unit_banner": "ca-app-pub-3940256099942544/6300978111",
+    "ad_unit_native": "ca-app-pub-3940256099942544/2247696110",
+    "max_banner_enable" : "true",
+    "max_inter_enable" : "true",
+    "max_native_enable" : "true",
+    "max_banner_id": "cc0df1fff65f28c5",
+    "max_inter_id": "15e1ef093a26def8",
+    "max_native_id": "3dccf201f517464f",
+    "tapdaq_banner_enable" : "false",
+    "tapdaq_inter_enable" : "false",
+    "tapdaq_app_id": "",
+    "tapdaq_client_key": "",
+    "tapdaq_placement_tag_banner": "default",
+    "tapdaq_placement_tag_inter": "default",
+    "tapdaq_ads_auto_reload" : "false"
+}
