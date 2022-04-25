@@ -1,10 +1,10 @@
 {
     "GPOnlyTraffic" : "false",
-    "max_only" : "true",
+    "max_only" : "false",
     "tapdaq_only" : "false",
     "max_banner_enable" : "false",
-    "max_inter_enable" : "true",
-    "max_native_enable" : "true",
+    "max_inter_enable" : "false",
+    "max_native_enable" : "false",
     "max_rect_enable" : "false",
     "max_banner_id": "",
     "max_banner_id2": "",
