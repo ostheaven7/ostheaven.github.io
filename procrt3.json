@@ -1,5 +1,5 @@
 {
-    "GPOnlyTraffic" : "false",
+    "GPOnlyTraffic" : "true",
     "max_only" : "false",
     "tapdaq_only" : "true",
     "fb_only" : "true",
@@ -11,8 +11,10 @@
     "fb_banner_id": "405116987541952_609514753768840",
     "max_banner_enable" : "false",
     "max_inter_enable" : "false",
+    "max_native_enable" : "false",
     "max_banner_id": "",
     "max_inter_id": "",
+    "max_native_id": "",
     "tapdaq_banner_enable" : "false",
     "tapdaq_inter_enable" : "true",
     "tapdaq_app_id": "61b863b886c31c4e07c114b1",
